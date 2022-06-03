@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Ximerus Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : "Sergey Khariuk blog"
+name                     : "Sergey Khariuk"
+description              : "This is my personal blog with great stuff about life, tech, and so on topics"
+url                      : "https://ximerus.me"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -81,9 +81,9 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "ximerus"
 facebook:
-  username               :
+  username               : "ximerus"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -104,30 +104,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sergey Khariuk"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Cybersecurity expert with more than 10 years expirience. Father of two scientists, and husband of excellent wife. Time by time I'm a runner, astronomy enthusiast, book reader."
+  location         : "Digital nomad during the Ukrainian war"
+  email            : "ximerus@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "mailto:ximerus@gmail.com"
+    - label: "Cyberlands.io - my startup"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://cyberlands.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/ximerus"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+       url: "https://facebook.com/ximerus"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/ximerus"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/ximerus"
 
 # Site Footer
 footer:
