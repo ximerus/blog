@@ -121,7 +121,7 @@ author:
       url: "https://twitter.com/ximerus"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://facebook.com/ximerus"
+      url: "https://facebook.com/ximerus"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ximerus"
