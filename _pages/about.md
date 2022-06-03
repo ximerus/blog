@@ -1,5 +1,5 @@
 # About
-
+!["Avatar"](../assets/media/avatar.jpg){: .align-left}
 Hello my name is Sergey Khariuk aka ximerus
 
 I'm 32 years old. Untill February 24th 2022 I lived in a Kyiv, the capital of Ukraine, but for now I'm digital nomad
@@ -71,7 +71,7 @@ __Main responsibilities:__
 * Consulted customers regarding application security
 
 ### Malware analyst at ALLIT Services LLC (Zillya antivirus)
-08.2015 – 06.2016
+08.2015 - 06.2016
 
 Zillya antivirus was the most famous Ukrainian malware protection software. I've gained excellent experience in cybersecurity and malware analysis through this project. Also, I had a unique opportunity to dive into CyberOps and understand how it works for black hat hackers and red teams. While I worked in Zillya, I also got my first teaching experience while teaching the Ukrainian Cyberpolice department.
 
@@ -87,16 +87,16 @@ __Main responsibilities:__
 * Coordinating cybersecurity-related community  [DefCon Kyiv](https://dc8044.com)
 * Organized cybersecurity conferences BSides Kyiv, DC8044 BlackOut, r0 Conf
 * Speaker on a cybersecurity conferences KazHackStan, BSides Kyiv, BSides Odesa, HackIT, 0xdec0de
-* [Telegram channel](https://t.me.ximerus)
-* [Funny telegram channel] [https://t.me/ximerusofficial]
+* [Telegram channel](https://t.me/x_notes)
+* [Funny telegram channel](https://t.me/ximerusofficial)
 
 ## Courses
 * Leadership & Negotiations - ProfiSpace business school 
-* [Security in Google Cloud Specialization](https://coursera.org/share/79b011808d261d4fda7c6472aaaba2b3)
-* [Project Management Specialization](https://coursera.org/share/51443349fb5b9ecea82666e3976df4ff)
+* [Security in Google Cloud Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/6KQPACEVBX9X)
+* [Project Management Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/4QRWNHFZFU9P)
 * ISO 27001:2013 Lead Auditor (Certificate expired)
 * USAID Cybersecurity Business Accelerator
 * CRDF Global Cybersecurity Accelerator
 
 ## Awards
-* Second place in team competition [SANS Grid NetWars competition](ttps://portswigger.net/daily-swig/ukraine-hosts-large-scale-simulation-of-cyber-attack-against-energy-grid)
+* Second place in team competition [SANS Grid NetWars competition](https://portswigger.net/daily-swig/ukraine-hosts-large-scale-simulation-of-cyber-attack-against-energy-grid)
