@@ -1,5 +1,4 @@
-# About
-!["Avatar"](../assets/media/avatar.jpg){: .align-left}
+!["Avatar"](../assets/media/avatar.jpg){:height="700px" width="400px"}
 Hello my name is Sergey Khariuk aka ximerus
 
 I'm 32 years old. Untill February 24th 2022 I lived in a Kyiv, the capital of Ukraine, but for now I'm digital nomad
