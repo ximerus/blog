@@ -4,7 +4,7 @@ main:
     url: _pages/about
   - title: "CV/Resume"
     url: _pages/resume
-  - title: "Book"
+  - title: "Books"
     url: _pages/books
   # - title: "Sample Collections"
   #   url: /collection-archive/
