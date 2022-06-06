@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "About(CV)"
+  - title: "About"
     url: _pages/about
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "CV/Resume"
+    url: _pages/resume
+  - title: "Book"
+    url: _pages/books
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
