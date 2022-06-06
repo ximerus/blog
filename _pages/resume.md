@@ -1,4 +1,5 @@
-!["Avatar"](../assets/media/avatar.jpg){:height="700px" width="400px"}
+!["Avatar"](../assets/media/avatar.jpg){:height="700px" width="400px"}  
+
 Hello my name is Sergey Khariuk aka ximerus
 
 I'm 32 years old. Untill February 24th 2022 I lived in a Kyiv, the capital of Ukraine, but for now I'm digital nomad
@@ -36,15 +37,15 @@ __Main responsibilities:__
 
 The startup developed security software for ATMs to prevent all possible attacks based on malicious software and hardware attacks. We had prepared the first analysis of unpacked malware "Cutlet Maker."
 
-___Main responsibilities:__
+__Main responsibilities:__
 * Managing software development team
 * Led the research team
 * Designing protection mechanisms
 * Negotiations with customers
 * Led the research department
  
-__Articles:__
-• https://medium.com/@pushret/atmjackpot-malware-en-b0cdb29e7ce
+__Articles:__  
+* [ATMJackpot malware](https://medium.com/@pushret/atmjackpot-malware-en-b0cdb29e7ce)
 
 ### Lector at CyberSchool
 03.2019 – now (Part-time)
