@@ -3,9 +3,7 @@ main:
   - title: "About"
     url: _pages/about
   - title: "CV/Resume"
-    url: _pages/resume
-  - title: "Books"
-    url: _pages/books
+    url: _pages/cv
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
