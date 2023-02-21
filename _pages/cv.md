@@ -1,6 +1,6 @@
 !["Avatar"](../assets/media/avatar.jpg){:height="700px" width="400px"}  
 
-Hello my name is Sergey Khariuk aka ximerus
+Hello my name is Serhii Khariuk aka ximerus
 
 I'm 32 years old. Untill February 24th 2022 I lived in a Kyiv, the capital of Ukraine, but for now I'm digital nomad
 I've more than 10 years of expirience in different areas of cybersecurity. Through whole my professional path I'm active member of cybersecurity community and I beelive that main strength of people capabilities is in the collaboration
